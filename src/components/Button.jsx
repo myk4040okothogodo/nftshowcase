@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '../styles/Global';
 
-const Button = ({ assetsUrl, link }) => {
+const Button = ({ assetUrl, link }) => {
     return (
         <div
             className = {styles.btnBlack}
